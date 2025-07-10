@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5376af2-150e-4ed5-839f-6228cf029a70)# dddd-scan-web
+# dddd-scan-web
 本工具是一个基于 Flask 框架构建的任务管理与报告生成系统。它允许用户提交任务（如 dddd.exe 工具执行的扫描任务），并对任务进行管理，包括查看任务状态、终止任务、删除任务等操作。同时，系统支持任务日志的查看和导出，能够将任务结果以 HTML 和 JSON 格式保存，并提供了将 JSON 日志导出为 Excel 文件的功能。此外，系统集成了认证模块，确保只有经过授权的用户才能访问相关功能。
 以下是根据你提供的代码生成的 README 文档和简介(作为学习flask的项目)：
 
@@ -6,6 +6,7 @@
 本工具是一个基于 Flask 框架构建的任务管理与报告生成系统。它允许用户提交任务（如 `dddd.exe` 工具执行的扫描任务），并对任务进行管理，包括查看任务状态、终止任务、删除任务等操作。同时，系统支持任务日志的查看和导出，能够将任务结果以 HTML 和 JSON 格式保存，并提供了将 JSON 日志导出为 Excel 文件的功能。此外，系统集成了认证模块，确保只有经过授权的用户才能访问相关功能。
 ![image](https://github.com/user-attachments/assets/4bd78788-910b-4a9f-81de-323c97afb7b7)
 ![image](https://github.com/user-attachments/assets/9d47bdda-5c07-48d5-a2ee-82d3dafc0dd6)
+![image](https://github.com/user-attachments/assets/a5376af2-150e-4ed5-839f-6228cf029a70)
 ![image](https://github.com/user-attachments/assets/de2c08b8-3b1a-4855-a994-1d17b6101115)
 ![image](https://github.com/user-attachments/assets/7dac77f7-afdc-49c8-a513-73e01db855a3)
 ![image](https://github.com/user-attachments/assets/45ea9366-6084-44c3-9da4-af66fac729b6)
